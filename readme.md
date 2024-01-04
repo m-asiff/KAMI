@@ -24,7 +24,8 @@ The server will start at http://127.0.0.1:8000/
 Accessing the API
 Visit http://127.0.0.1:8000/api/airplane to view or modify the airplanes.
 
-An API documentation for this project is included in "KAMI Airlines API Collection.json" which you can directly import in Postman to test the functionality
+An API documentation for this project is included in "**KAMI Airlines API Collection.json**" which you can directly import in Postman to test the functionality
 
 ### Testing
 Coverage testing report is also included as HTML in **htmlcov** folder
+
