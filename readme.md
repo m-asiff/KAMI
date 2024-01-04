@@ -29,3 +29,8 @@ An API documentation for this project is included in "**KAMI Airlines API Collec
 ### Testing
 Coverage testing report is also included as HTML in **htmlcov** folder
 
+To run coverage test
+
+```bash
+coverage run --source='airplane' manage.py test
+```
